@@ -1,5 +1,6 @@
 package abstract_factory_test;
 
+import abstract_factory.*;
 import org.junit.Assert;
 import org.junit.Test;
 
